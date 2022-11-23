@@ -1,0 +1,9 @@
+lui
+23200
+5
+3
+intermediate
+campaign
+38
+4
+4
